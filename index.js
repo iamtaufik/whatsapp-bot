@@ -1,4 +1,3 @@
-const qrcode = require('qrcode-terminal');
 const dotenv = require('dotenv');
 const { Client, LocalAuth } = require('whatsapp-web.js');
 const { Configuration, OpenAIApi } = require('openai');
@@ -10,10 +9,6 @@ const configuration = new Configuration({
 
 const client = new Client({
   authStrategy: new LocalAuth(),
-});
-
-client.on('qr', (qr) => {
-  qrcode.generate(qr, { small: true });
 });
 
 client.on('ready', () => {

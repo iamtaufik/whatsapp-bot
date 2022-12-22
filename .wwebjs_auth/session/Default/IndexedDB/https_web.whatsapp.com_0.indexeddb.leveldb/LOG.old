@@ -1,36 +1,15 @@
-2022/12/22-18:22:58.655 2b48 Reusing MANIFEST C:\Users\Taufik\Desktop\Web Programing\Framework BackEnd\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/22-18:22:58.659 2b48 Recovering log #1799
-2022/12/22-18:22:58.670 2b48 Reusing old log C:\Users\Taufik\Desktop\Web Programing\Framework BackEnd\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001799.log 
-2022/12/22-18:54:55.381 21e0 Level-0 table #1805: started
-2022/12/22-18:54:55.457 21e0 Level-0 table #1805: 1456459 bytes OK
-2022/12/22-18:54:55.462 21e0 Delete type=0 #1799
-2022/12/22-18:55:02.625 1578 Compacting 1@1 + 2@2 files
-2022/12/22-18:55:02.823 1578 Generated table #1806@1: 30169 keys, 2250997 bytes
-2022/12/22-18:55:02.971 1578 Generated table #1807@1: 34643 keys, 1445195 bytes
-2022/12/22-18:55:02.971 1578 Compacted 1@1 + 2@2 files => 3696192 bytes
-2022/12/22-18:55:02.972 1578 compacted to: files[ 0 0 2 0 0 0 0 ]
-2022/12/22-18:55:02.973 1578 Delete type=2 #1801
-2022/12/22-18:55:02.973 1578 Delete type=2 #1802
-2022/12/22-18:55:02.973 1578 Delete type=2 #1805
-2022/12/22-19:35:06.920 2e58 Level-0 table #1809: started
-2022/12/22-19:35:07.135 2e58 Level-0 table #1809: 1446823 bytes OK
-2022/12/22-19:35:07.143 2e58 Delete type=0 #1804
-2022/12/22-19:35:07.504 2ac0 Compacting 1@1 + 2@2 files
-2022/12/22-19:35:07.766 2ac0 Generated table #1810@1: 29565 keys, 2248154 bytes
-2022/12/22-19:35:08.009 2ac0 Generated table #1811@1: 40760 keys, 1742942 bytes
-2022/12/22-19:35:08.009 2ac0 Compacted 1@1 + 2@2 files => 3991096 bytes
-2022/12/22-19:35:08.010 2ac0 compacted to: files[ 0 0 2 0 0 0 0 ]
-2022/12/22-19:35:08.012 2ac0 Delete type=2 #1806
-2022/12/22-19:35:08.013 2ac0 Delete type=2 #1807
-2022/12/22-19:35:08.013 2ac0 Delete type=2 #1809
-2022/12/22-20:19:34.684 3534 Level-0 table #1813: started
-2022/12/22-20:19:34.763 3534 Level-0 table #1813: 1392029 bytes OK
-2022/12/22-20:19:34.769 3534 Delete type=0 #1808
-2022/12/22-20:19:48.314 2750 Compacting 1@1 + 2@2 files
-2022/12/22-20:19:48.519 2750 Generated table #1814@1: 29134 keys, 2243093 bytes
-2022/12/22-20:19:48.850 2750 Generated table #1815@1: 46204 keys, 2104945 bytes
-2022/12/22-20:19:48.850 2750 Compacted 1@1 + 2@2 files => 4348038 bytes
-2022/12/22-20:19:48.852 2750 compacted to: files[ 0 0 2 0 0 0 0 ]
-2022/12/22-20:19:48.853 2750 Delete type=2 #1810
-2022/12/22-20:19:48.854 2750 Delete type=2 #1811
-2022/12/22-20:19:48.854 2750 Delete type=2 #1813
+2022/12/22-20:28:36.011 3754 Reusing MANIFEST C:\Users\Taufik\Desktop\Web Programing\Framework BackEnd\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/22-20:28:36.013 3754 Recovering log #1812
+2022/12/22-20:28:36.344 3754 Reusing old log C:\Users\Taufik\Desktop\Web Programing\Framework BackEnd\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001812.log 
+2022/12/22-20:30:51.141 3754 Level-0 table #1818: started
+2022/12/22-20:30:51.217 3754 Level-0 table #1818: 1399861 bytes OK
+2022/12/22-20:30:51.221 3754 Delete type=0 #1812
+2022/12/22-20:31:00.054 3754 Compacting 1@1 + 2@2 files
+2022/12/22-20:31:00.215 3754 Generated table #1819@1: 28905 keys, 2242950 bytes
+2022/12/22-20:31:00.361 3754 Generated table #1820@1: 46024 keys, 2278364 bytes
+2022/12/22-20:31:00.373 3754 Generated table #1821@1: 4190 keys, 80758 bytes
+2022/12/22-20:31:00.373 3754 Compacted 1@1 + 2@2 files => 4602072 bytes
+2022/12/22-20:31:00.375 3754 compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/12/22-20:31:00.376 3754 Delete type=2 #1814
+2022/12/22-20:31:00.376 3754 Delete type=2 #1815
+2022/12/22-20:31:00.376 3754 Delete type=2 #1818
